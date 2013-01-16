@@ -1,6 +1,6 @@
 @import "bootstrap";
-$lightGray: #999
-$grayMediumLight: #eaeaea
+$lightGray: #999;
+$grayMediumLight: #eaeaea;
 
 /* universal */
 
@@ -81,9 +81,9 @@ footer {
 	border-top: 1px solid $grayMediumLight;
 	color: #999;
 	a {
-		color: #555
+		color: #555;
 		&:hover {
-			color: #222
+			color: #222;
 		}
 	}
 	small {
